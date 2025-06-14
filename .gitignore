@@ -1,2 +1,4 @@
 idea
 .env
+.coderbot
+__pycache__
